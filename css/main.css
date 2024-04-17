@@ -20,7 +20,7 @@ body {
     width: 100%;
     height: 100%;
     min-height: 100%;
-    background-color: #007ced;
+    background-color: greenyellow;
     background-position: center center;
     background-size: calc(100% + 25px);
     background-repeat: repeat;
@@ -100,7 +100,7 @@ body.ajax-page-visible {
 }
 
 a {
-    color: #007ced;
+    color: greenyellow;
     text-decoration: none;
     outline: none;
     -webkit-transition: all .3s ease-in-out;
@@ -278,7 +278,7 @@ textarea.form-control:focus {
     top: 0;
     opacity: 0;
     background: 0 0 !important;
-    border: 2px solid #007ced;
+    border: 2px solid greenyellow;
     border-right-width: 0;
     height: 100%;
     -webkit-transition: all .3s ease-in-out;
@@ -350,7 +350,7 @@ textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-    color: #007ced
+    color: greenyellow
 }
 
 .form-group.form-group-w-checkbox {
@@ -446,7 +446,7 @@ input[type=submit],
     line-height: 1.2;
     border: 0;
     outline: 0;
-    border: 2px solid #007ced;
+    border: 2px solid greenyellow;
     color: #222;
     text-shadow: none;
     background-color: #fff;
@@ -477,9 +477,9 @@ input[type=button]:hover,
 input[type=button]:focus,
 input[type=submit]:hover,
 input[type=submit]:focus {
-    background-color: #007ced;
+    background-color: greenyellow;
     color: #fff;
-    border: 2px solid #007ced
+    border: 2px solid greenyellow
 }
 
 .btn-secondary {
@@ -501,11 +501,11 @@ input[type=submit]:focus {
 }
 
 .border-top {
-    border-top: 2px solid #007ced
+    border-top: 2px solid greenyellow
 }
 
 .border-bottom {
-    border-bottom: 2px solid #007ced
+    border-bottom: 2px solid greenyellow
 }
 
 body>footer {
@@ -708,7 +708,7 @@ td {
     width: 52px;
     height: 52px;
     margin: 100px auto;
-    background-color: #007ced;
+    background-color: greenyellow;
     border-radius: 100%;
     -webkit-animation: sk-scaleout 1s infinite ease-in-out;
     animation: sk-scaleout 1s infinite ease-in-out
@@ -1180,7 +1180,7 @@ td {
     width: 44px;
     height: 44px;
     line-height: 44px;
-    background-color: #007ced;
+    background-color: greenyellow;
     border-radius: 100px;
     text-align: center;
     color: #fff;
@@ -1549,7 +1549,7 @@ h3.comment-reply-title:after {
     position: absolute;
     content: '';
     width: 30px;
-    background-color: #007ced;
+    background-color: greenyellow;
     height: 2px;
     bottom: 0
 }
@@ -1566,7 +1566,7 @@ h3.comment-reply-title:before {
 }
 
 .block-title h3 span {
-    color: #007ced
+    color: greenyellow
 }
 
 .custom-page-content .block {
@@ -1607,7 +1607,7 @@ h3.comment-reply-title:before {
 }
 
 .lmpixels-scroll-to-top:hover {
-    color: #0099e5
+    color: greenyellow
 }
 
 .lmpixels-scroll-to-top.hidden-btn {
@@ -1757,7 +1757,7 @@ h3.comment-reply-title:before {
     display: block;
     width: 100%;
     height: 2px;
-    background-color: #007ced
+    background-color: greenyellow
 }
 
 .info-list li .value {
@@ -1863,7 +1863,7 @@ ul.social-links li:last-child a {
     position: relative;
     display: table-cell;
     font-size: 33px;
-    color: #007ced
+    color: greenyellow
 }
 
 .info-block-w-icon img {
@@ -1920,7 +1920,7 @@ ul.social-links li:last-child a {
     background-color: #fff;
     padding: 0 10px;
     line-height: 23px;
-    border: 2px solid #007ced;
+    border: 2px solid greenyellow;
     border-radius: 30px
 }
 
@@ -2043,7 +2043,7 @@ ul.social-links li:last-child a {
 }
 
 .skills-first-style .skill-percentage {
-    background-color: #007ced;
+    background-color: greenyellow;
     border: 2px solid #fff;
     -moz-border-radius: 9px;
     -webkit-border-radius: 9px;
@@ -2069,7 +2069,7 @@ ul.social-links li:last-child a {
     font-size: 48px;
     line-height: 80px;
     color: #fff;
-    background-color: #007ced;
+    background-color: greenyellow;
     width: 80px;
     height: 80px;
     border-radius: 100px;
@@ -2228,12 +2228,12 @@ ul.social-links li:last-child a {
 .clients.owl-carousel .owl-dot:hover span,
 .testimonials.owl-carousel .owl-dot.active span,
 .testimonials.owl-carousel .owl-dot:hover span {
-    background-color: #007ced
+    background-color: greenyellow
 }
 
 .clients.owl-carousel .owl-dot.active span,
 .testimonials.owl-carousel .owl-dot.active span {
-    background-color: #007ced;
+    background-color: greenyellow;
     width: 30px
 }
 
@@ -2281,7 +2281,7 @@ ul.social-links li:last-child a {
 .lm-info-block i {
     position: relative;
     font-size: 33px;
-    color: #007ced;
+    color: greenyellow  ;
     margin-bottom: 6px;
     width: 33px;
     height: 33px
@@ -2292,7 +2292,7 @@ ul.social-links li:last-child a {
     font-weight: 400;
     display: block;
     margin: 10px 0;
-    color: #007ced
+    color: greenyellow
 }
 
 .lm-info-block-value {
@@ -2464,7 +2464,7 @@ ul.social-links li:last-child a {
     width: 30px;
     height: 30px;
     background-color: #fff;
-    color: #007ced;
+    color: greenyellow;
     text-align: center;
     line-height: 30px;
     border-radius: 5px;
